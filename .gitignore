@@ -3,3 +3,9 @@ leetcode/
 .DS_Store
 .AppleDouble
 .LSOverride
+filemaker.py
+
+*.png
+*.jpg
+*.webp
+*.svg
